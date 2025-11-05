@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Jobs Wining Application using Flutter**
 
-- 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, Computer Vision,Tensorflow,Pytorch, Scikit Learn,**
+- 🌱 I’m currently learning **AI, Machine Learning, Deep Learning, Computer Vision, SIEM, IT/OT, IoT, Cloud**
 
 - 📝 I regularly write articles on [linkedIn](linkedIn)
 
