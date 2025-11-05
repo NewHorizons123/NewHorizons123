@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [linkedIn](linkedIn)
 
-- 💬 Ask me about **AI, Computer Vision, Machine Learning**
+- 💬 Ask me about **AI, Computer Vision, Machine Learning, SIEM, SOC, DFIR, IT/OT**
 
 - 📫 How to reach me **aadilabdulsattar7@gmail.com**
 
